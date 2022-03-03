@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aparna1Gopal
 - 👀 I’m interested in .. Research | Learning Design | Architecture | Urban Planning
-- 🌱 I’m currently.. exploring and learning AI in UX
+- 🌱 I’m currently.. exploring AI in UX
 - 💞️ I’m looking to collaborate.. Research Projects on UX, Design, Product, Sustainability
 - 📫 How to reach me https://www.linkedin.com/in/aparnagopal/
 
