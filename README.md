@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Aparna1Gopal
-- 👀 I’m interested in .. UX Research | Design Education | Architecture | Urban Planning
-- 🌱 I’m currently exploring.. AI in UX, Digital Sustainability
-- 💞️ I’m looking to collaborate.. UX Research Projects on AI Policy, AI & Ethics, UX Sustainability
+- 👋 Hi, I’m Aparna Gopal! Find me @Aparna1Gopal
+- 👀 I’m interested in .. UX Research | Learning Experience Design | Digital Community Management
+- 🌱 I’m currently exploring.. Responsible AI | Digital Sustainability
+- 💞️ I’m looking to collaborate.. On projects related to AI Policy, AI & Ethics, Digital Sustainability
 - 📫 How to reach me https://www.linkedin.com/in/aparnagopal/
 
 <!---
